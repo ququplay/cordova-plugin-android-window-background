@@ -5,9 +5,9 @@
     <license>MIT</license>
     <author>WINTER</author>
     <keywords>cordova,ionic,android,window background,color,background,window,theme,styles.xml</keywords>
-	
+
 	<engines>
-	  <engine name="cordova-android" version=">=7.0.0" />
+	  <engine name="cordova-android" version=">=6.4.0" />
 	</engines>
 
   	<platform name="android">
